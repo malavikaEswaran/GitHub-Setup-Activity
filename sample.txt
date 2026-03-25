@@ -1,0 +1,7 @@
+This is my first GitHub file.
+
+Name: Malavika
+Department: AIDS
+Year: 1
+
+Learning GitHub is interesting!
